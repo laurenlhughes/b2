@@ -1,0 +1,38 @@
+body  {
+   font-family: arial, helvetica, sans-serif;
+   color: blue;
+   }
+section {
+   margin: 10px auto;
+   width: 75%;
+   text-align: center;
+   border: 1px solid blue;
+ }
+h1  {
+font-size:  300%;
+
+}
+h2  {
+font-size:   150%;
+}
+article, aside, figure, footer, header, nav, section {
+   display: block;
+}  
+h1, ul {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  padding-bottom: .5em;
+}
+img {
+  height: 180px;
+  width: 240px;
+}
+
+/* the styles for the center content */
+
+li {
+  padding-right: 10px;
+  display: inline;
+}
